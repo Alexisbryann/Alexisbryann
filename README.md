@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I am Kiprotich Brian, a java developer, mobile developer and most importantly, a developer who is eager to learn and always quick picking up new technologies.
-### 🔭 I’m currently working on ...incorporating material design in android applications to develop a compelling UI, you can check out my repo on this, named Android_login_with_shared_preferences.
+### 🔭 I’m currently working on incorporating material design in android applications to develop a compelling UI, you can check out my repo on this, named Android_login_with_shared_preferences.
 ### 📫 How to reach me: 
 1. Twitter: https://twitter.com/bryann_koech
 2. E-mail 📧 : bryannkoech7@gmail.com
