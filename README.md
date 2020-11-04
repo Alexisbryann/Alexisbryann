@@ -28,8 +28,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alexisbryann&repo=Android_Login_using_shared_preferences&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 
-<a href="https://github.com/Alexisbryann/Android-CandyCodedApplication">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alexisbryann&repo=Android-CandyCodedApplication&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/Alexisbryann/e-loan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alexisbryann&repo=e-loan&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 
 <a href="https://github.com/Alexisbryann/Android-Poultry-Farmer">
