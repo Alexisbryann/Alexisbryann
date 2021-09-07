@@ -4,7 +4,7 @@
 ### 📫 How to reach me: 
 1. Twitter: https://twitter.com/bryann_koech
 2. E-mail 📧 : bryannkoech7@gmail.com
-3. Phone/whatsapp  📲 : +254748880318
+3. Phone/whatsapp  📲 : +254748880318/ +254705803084
 
 ## &#x1f4c8; GitHub Stats
 
