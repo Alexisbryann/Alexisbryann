@@ -1,6 +1,6 @@
 ### Hi there 👋
-### I am Kiprotich Brian, a java developer, mobile developer and most importantly, a developer who is eager to learn and always quick picking up new technologies.
-### 🔭 I’m currently working on incorporating material design in android applications to develop a compelling UI, you can check out my repo on this, named Android_login_with_shared_preferences.
+### 🔭I am Kiprotich Brian, a software developer with My Health Africa Limited and most importantly, I am a mobile developer by trade and also a front-end website developer.
+### 
 ### 📫 How to reach me: 
 1. Twitter: https://twitter.com/bryann_koech
 2. E-mail 📧 : bryannkoech7@gmail.com
@@ -28,8 +28,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alexisbryann&repo=Android_Login_using_shared_preferences&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 
-<a href="https://github.com/Alexisbryann/e-loan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alexisbryann&repo=e-loan&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/Alexisbryann/Ngamia">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alexisbryann&repo=ngamia&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 
 <a href="https://github.com/Alexisbryann/Android-Poultry-Farmer">
